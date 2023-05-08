@@ -18,8 +18,8 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 ![Screenshot of the webpage](./images/Web%20capture_8-5-2023_91438_127.0.0.1.jpeg)
 
 ### Links
-- [Github repository](#)
-- [Deployed site](#)
+- [Github repository](https://github.com/Emmanuel-Afrifa/stats-preview-card)
+- [Deployed site](https://stats-preview-frontend-sol.netlify.app/)
 
 ## Process
 ### Tools Used
